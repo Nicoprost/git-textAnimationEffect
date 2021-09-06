@@ -1,2 +1,2 @@
 Tutorials online = youtube
-IT Is Awesome
+You Are Awesome
